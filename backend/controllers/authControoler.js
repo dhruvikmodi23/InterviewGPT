@@ -1,4 +1,3 @@
-// controllers/authController.js
 const jwt = require('jsonwebtoken');
 const User = require('../model/user.model');
 const { JWT_SECRET, JWT_EXPIRES_IN } = require('../config');

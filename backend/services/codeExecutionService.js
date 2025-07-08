@@ -1,4 +1,3 @@
-// services/codeExecutionService.js
 const axios = require('axios');
 
 const JUDGE0_API_URL = process.env.JUDGE0_API_URL || 'http://localhost:2358';

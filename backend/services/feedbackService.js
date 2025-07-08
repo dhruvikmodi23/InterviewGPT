@@ -1,4 +1,3 @@
-// services/feedbackService.js
 const OPENAI_API_KEY = process.env.OPENAI_API_KEY;
 
 exports.generateFeedback = async ({ codeExecution, speechAnalysis }) => {

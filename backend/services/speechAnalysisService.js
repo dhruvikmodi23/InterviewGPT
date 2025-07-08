@@ -1,4 +1,3 @@
-// services/speechAnalysisService.js
 const axios = require('axios');
 const OPENAI_API_KEY = process.env.OPENAI_API_KEY;
 

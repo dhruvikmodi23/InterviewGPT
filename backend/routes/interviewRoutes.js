@@ -1,4 +1,3 @@
-// routes/interviewRoutes.js
 const express = require('express');
 const interviewController = require('../controllers/interviewController');
 const authController = require('../controllers/authController');
